@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>885902999489-vemh29h0p99h6mqc8v5t8ls82jh9d1hs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.885902999489-vemh29h0p99h6mqc8v5t8ls82jh9d1hs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBu0ONC85qLydfAh7q7g98rAmvOHjw-fmU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>885902999489</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.chatapproqaya</string>
+	<key>PROJECT_ID</key>
+	<string>chatapproqaya</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatapproqaya.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:885902999489:ios:deae2fe7723426bf8b3940</string>
+</dict>
+</plist>

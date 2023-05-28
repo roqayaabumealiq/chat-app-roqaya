@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885902999489",
+    "project_id": "chatapproqaya",
+    "storage_bucket": "chatapproqaya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885902999489:android:5e56be665f191ca48b3940",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_roqaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885902999489-d7pcnkkjbc8e40atg1706rsisoqr5v8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv0ecodwDL18cOIc58awtHzEXW_hsQWfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885902999489-d7pcnkkjbc8e40atg1706rsisoqr5v8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
